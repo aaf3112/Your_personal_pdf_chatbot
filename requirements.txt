@@ -1,0 +1,14 @@
+﻿streamlit
+fitz
+os
+torch
+pickle
+hashlib
+langchain
+python-dotenv
+faiss-cpu
+huggingface-hub==0.14.1
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+time
+concurrent.futures
