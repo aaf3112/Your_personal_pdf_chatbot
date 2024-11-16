@@ -24,12 +24,12 @@ This repository provides a Content Engine for analyzing and comparing multiple P
 ## Setup
 
 1. *Clone the repository:*
-   bash
+     ```bash
    git clone https://github.com/aaf3112/Your_personal_pdf_chatbot.git
-   cd content-engine-pdf-comparison
+   cd Your_personal_pdf_chatbot
 
 2. **Install dependencies:**
-   bash
+     ```bash
    pip install -r requirements.txt
 
 3. *Run the application:*
